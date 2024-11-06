@@ -1,4 +1,4 @@
-# 🌐 **La Metodología de las 9 Dimensiones: Facilitando la Participación Multisectorial** 🌐
+# 🌐 **La Metodología de las 9 Dimensiones: Facilitando la Participación y Articulación Multisectorial** 🌐
 
 La **metodología de las 9 dimensiones** tiene como propósito **reducir la complejidad** de la participación y articulación entre diferentes sectores y actores que colaboran hacia un **propósito común**. Este enfoque estructurado permite gestionar la diversidad de perspectivas, recursos y objetivos de las partes involucradas, facilitando su integración en proyectos colaborativos de manera eficiente y efectiva así como también reduce la complejidad,el riesgo y la incertidumbre,
 
