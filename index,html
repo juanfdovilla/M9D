@@ -31,7 +31,7 @@
     <div id="app"></div>
     
     <video id="inputVideo" playsinline autoplay muted></video>
-    <button id="webcamButton">CLICK TO ENABLE WEBCAM</button>
+    <button id="webcamButton">Click para habilitar la Cámara</button>
     
     <script type="module" src="./js/index.js"></script>
   </body>
