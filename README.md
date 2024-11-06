@@ -1,6 +1,6 @@
 # 🌐 **La Metodología de las 9 Dimensiones: Facilitando la Participación Multisectorial** 🌐
 
-La **metodología de las 9 dimensiones** tiene como propósito **reducir la complejidad** de la participación y articulación entre diferentes sectores y actores que colaboran hacia un **propósito común**. Este enfoque estructurado permite gestionar la diversidad de perspectivas, recursos y objetivos de las partes involucradas, facilitando su integración en proyectos colaborativos de manera eficiente y efectiva.
+La **metodología de las 9 dimensiones** tiene como propósito **reducir la complejidad** de la participación y articulación entre diferentes sectores y actores que colaboran hacia un **propósito común**. Este enfoque estructurado permite gestionar la diversidad de perspectivas, recursos y objetivos de las partes involucradas, facilitando su integración en proyectos colaborativos de manera eficiente y efectiva así como también reduce la complejidad,el riesgo y la incertidumbre,
 
 ## ✨ **Objetivo Principal**  
 La metodología busca **simplificar** los procesos de colaboración entre actores de distintos sectores, para crear un marco donde **todos los involucrados** —gobiernos, empresas, sociedad civil, académicos, y más— puedan **trabajar coordinadamente** hacia un objetivo común. Al abordar las **9 dimensiones clave**, se logra una integración eficaz de las acciones, optimizando resultados y generando un impacto positivo y sostenible.
@@ -55,6 +55,6 @@ La participación activa de la **sociedad civil** y los actores del **sector pú
 La **articulación multisectorial** genera un entorno de **confianza** entre todos los actores, ya que cada parte tiene claro su rol y compromiso. Esto no solo facilita la colaboración, sino que también crea un ambiente de **transparencia** y **rendición de cuentas**, donde todos los involucrados pueden contribuir y evaluar el progreso del proyecto.
 
 ## 🌟 **Conclusión**  
-La **metodología de las 9 dimensiones** es una poderosa herramienta para facilitar la participación y colaboración entre los distintos sectores y actores involucrados en la creación de soluciones integradas. Al alinear y articular de manera efectiva estos actores, se pueden superar los desafíos de la complejidad y crear proyectos con **impacto real y transformador**.  
+La **metodología de las 9 dimensiones** es una poderoso método para facilitar la participación y colaboración entre los distintos sectores y actores involucrados en la creación de soluciones integradas. Al alinear y articular de manera efectiva estos actores, se pueden superar los desafíos de la complejidad y crear proyectos con **impacto real y transformador** directo en las políticas públicas, gobernanza, transparencia, inclusión, rendición de cuentas, ética y datos abiertos.  
 
-Al trabajar juntos, **público, privado, sociedad civil, expertos, y academia**, podemos construir un futuro más **sostenible, equitativo e innovador** para todos. ¡El éxito está en la colaboración! 🚀
+Al trabajar juntos, **sectores público, privado, sociedad civil, expertos,academia y ciudadanos**, podemos construir un futuro más **sostenible, equitativo e innovador** para todos. ¡El éxito está en la colaboración! 🚀
